@@ -26,11 +26,12 @@ Find blogs that interest you with our powerful search feature. Explore different
 <li>Backend: Node.js, Express.js, PrismaSQL, Cloudeflare</li>
 <li>Authentication: Hono, JWT (JSON Web Token)</li>
  </ul>
-<li><h2>Some images:-</h2></li>
- ![Screenshot 2024-08-30 115922](https://github.com/user-attachments/assets/8e966a78-17f0-416a-9c8e-6cdd9f550c1e)
-![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/9cc30b08-d1a5-4404-8c0f-37e944e05dde)
-
+ 
 </ul>
+<h2>Some images:-</h2>
+![Screenshot 2024-08-30 115922](https://github.com/user-attachments/assets/25cedeca-7a15-4486-9e68-dbcc1cdcf10c)
+![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/a361ec78-bf0a-4bae-8e6e-66a2bd722f71)
+
 
 
 
