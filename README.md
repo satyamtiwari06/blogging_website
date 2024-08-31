@@ -28,5 +28,3 @@ Find blogs that interest you with our powerful search feature. Explore different
  </ul>
  
 </ul>
-<h2>Some images:-</h2>
-![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/885306e7-c3b0-4667-aa52-9b3b9bdbf138)
