@@ -1,4 +1,4 @@
-📝 MyBlog - Your Personal Blogging Platform<br/>
+<h3>📝 MyBlog - Your Personal Blogging Platform</h3>h3<br/>
 <p>Welcome to MyBlog! This is your go-to platform for sharing thoughts, stories, and ideas with the world. MyBlog offers a sleek and intuitive interface that makes blogging easier and more enjoyable. Whether you're a seasoned writer or just starting out, this platform is designed to empower your voice.</p>
 
 ✨ Features<br/>
