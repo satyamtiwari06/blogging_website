@@ -28,10 +28,8 @@ Find blogs that interest you with our powerful search feature. Explore different
  </ul>
  
 </ul>
-![Screenshot 2024-08-30 115922](https://github.com/user-attachments/assets/ba4961ab-02b4-4b98-ab92-dc760b1fd450)
-![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/11200f2b-ce64-4581-82f4-eb2aaf9a61e5)
-
-
-
+<h2>Some images:-</h2>
+![Scre![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/27431c38-4f59-4dd8-979c-e671ef9516b3)
+enshot 2024-08-30 115922](https://github.com/user-attachments/assets/0a04cf8e-3273-4845-9b2b-25ce4810d164)
 
 
