@@ -28,9 +28,9 @@ Find blogs that interest you with our powerful search feature. Explore different
  </ul>
  
 </ul>
-<h2>Some images:-</h2>
-![Screenshot 2024-08-30 115922](https://github.com/user-attachments/assets/25cedeca-7a15-4486-9e68-dbcc1cdcf10c)
-![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/a361ec78-bf0a-4bae-8e6e-66a2bd722f71)
+![Screenshot 2024-08-30 115922](https://github.com/user-attachments/assets/ba4961ab-02b4-4b98-ab92-dc760b1fd450)
+![Screenshot 2024-08-30 115741](https://github.com/user-attachments/assets/11200f2b-ce64-4581-82f4-eb2aaf9a61e5)
+
 
 
 
