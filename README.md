@@ -20,6 +20,13 @@ MyBlog is fully responsive, ensuring that your experience is seamless on any dev
 Personalize your profile to reflect your style. Showcase your published posts and engage with readers.<br/>
 <li><h3>🔍 Search and Explore</h3></li>
 Find blogs that interest you with our powerful search feature. Explore different categories, tags, and trending topics.<br/>
+<li><h2>🛠️Built With</h2> </li>
+ <ol>
+<li>Frontend: React, Tailwind, CSS</li>
+<li></li>Backend: Node.js, Express.js, PrismaSQL, Cloudeflare</li>
+<li></li>Authentication: Hono, JWT (JSON Web Token)</li>
+ </ol>
+
 </ul>
 
 
